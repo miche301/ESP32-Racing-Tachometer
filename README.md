@@ -3,6 +3,7 @@
 A racing-style tachometer built on an ESP32 with a 1.28" round TFT display. A potentiometer acts as the throttle, and two buttons work as sequential paddle shifters. The project was built in levels, starting with reading a single analog voltage and ending with a simulated 6-speed car with a rev limiter, shift light, and downshift protection.
 
 <img width="440" height="248" alt="tachometer_demo" src="https://github.com/user-attachments/assets/85f8adc2-2aec-43a9-800e-46ce9f320b3d" />
+
 Down shifting is the same concept: Lowering the potentiometer, then pressing the right button
 
 ## Project Levels
